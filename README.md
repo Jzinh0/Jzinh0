@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Jzinh0
-- 👀 I’m interested in programing an new techs
+- 👀 I’m interested in programing and new techs
 - 🌱 I’m currently learning python
